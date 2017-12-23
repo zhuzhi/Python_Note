@@ -16,5 +16,5 @@
 4. [Python 编码错误的本质原因](https://foofish.net/python-unicode-error.html)
 5. [Python 编码为什么那么蛋疼？](https://foofish.net/why-python-encoding-is-tricky.html)
 6. [Python3 是如何解决棘手的字符编码问题的？](https://foofish.net/how-python3-handle-charset-encoding.html)
-
+7. [知乎问答: GB2312、GBK、GB18030 这几种字符集的主要区别是什么？](https://www.zhihu.com/question/19677619)
 
