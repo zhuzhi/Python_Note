@@ -18,6 +18,8 @@
 10. [中文维基: GB 18030](https://zh.wikipedia.org/wiki/GB_18030)
 11. [中文维基: 中日韩统一表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%B5%B1%E4%B8%80%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)
 12. [中文维基: Unicode](https://zh.wikipedia.org/zh-hans/Unicode)
+13. [中文维基: UTF-8](https://zh.wikipedia.org/zh-hans/UTF-8)
+14. [中文维基: UTF-16](https://zh.wikipedia.org/wiki/UTF-16)
 
 
 
