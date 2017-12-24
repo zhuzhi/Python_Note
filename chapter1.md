@@ -15,7 +15,7 @@
 7. [知乎问答: GB2312、GBK、GB18030 这几种字符集的主要区别是什么？](https://www.zhihu.com/question/19677619)
 8. [中文维基: GB2312](https://zh.wikipedia.org/wiki/GB_2312)
 9. [中文维基: 汉字内码扩展规范](https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E5%86%85%E7%A0%81%E6%89%A9%E5%B1%95%E8%A7%84%E8%8C%83)
-10. [中文维基: GB18030](https://zh.wikipedia.org/wiki/GB_18030)
+10. [中文维基: GB 18030](https://zh.wikipedia.org/wiki/GB_18030)
 
 
 
