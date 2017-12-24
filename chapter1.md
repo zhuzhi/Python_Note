@@ -5,7 +5,7 @@
 这一章主要想要解决这个问题.
 
 ## 前期搜索
-
+![编码和encoding](/assets/python_string.png)
 
 ## 参考文献,博客,教程等等:
 
