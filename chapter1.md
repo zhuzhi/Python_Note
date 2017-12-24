@@ -20,6 +20,7 @@
 12. [中文维基: Unicode](https://zh.wikipedia.org/zh-hans/Unicode)
 13. [中文维基: UTF-8](https://zh.wikipedia.org/zh-hans/UTF-8)
 14. [中文维基: UTF-16](https://zh.wikipedia.org/wiki/UTF-16)
+15. [中文维基: UTF-32](https://zh.wikipedia.org/zh-hans/UTF-32)
 
 
 
