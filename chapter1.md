@@ -16,7 +16,7 @@
 8. [中文维基: GB2312](https://zh.wikipedia.org/wiki/GB_2312)
 9. [中文维基: 汉字内码扩展规范](https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E5%86%85%E7%A0%81%E6%89%A9%E5%B1%95%E8%A7%84%E8%8C%83)
 10. [中文维基: GB 18030](https://zh.wikipedia.org/wiki/GB_18030)
-11. [中文维基: 中日韩统一表意文字]
+11. [中文维基: 中日韩统一表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%B5%B1%E4%B8%80%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)
 
 
 
