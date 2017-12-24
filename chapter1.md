@@ -25,6 +25,7 @@
 13. [中文维基: UTF-8](https://zh.wikipedia.org/zh-hans/UTF-8)
 14. [中文维基: UTF-16](https://zh.wikipedia.org/wiki/UTF-16)
 15. [中文维基: UTF-32](https://zh.wikipedia.org/zh-hans/UTF-32)
+16. [熟悉又陌生的字符编码](http://funhacks.net/2016/11/25/character_encoding/)
 
 
 
